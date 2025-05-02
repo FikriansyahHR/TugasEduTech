@@ -1,9 +1,9 @@
 Buatlah program simulasi kasir untuk warung kecil. Warung menjual 3 produk berikut:
 
-Kode	Barang	      Harga (Rp)
-A	    Air Mineral	  3.000
-B	    Roti	        5.000
-C	    Mi Instan	    2.500
+Kode	        Barang	          Harga (Rp)
+A	            Air Mineral	      3.000
+B	            Roti	            5.000
+C	            Mi Instan	        2.500
 
 Program akan menampilkan menu, meminta jumlah barang yang dibeli, menghitung total harga, lalu menampilkan struk belanja sederhana.
 Gunakan fungsi hitungTotal() untuk menghitung total belanja berdasarkan jumlah barang.
