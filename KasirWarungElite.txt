@@ -15,9 +15,9 @@ Petunjuk Teknis:
 ==========================================================================
 Output yang ditampilkan kepada user sebagai berikut :
 => berikut adalah inputnya
-=============================
-  SELAMAT DATANG DI WARUNG
-=============================
+===================================
+  SELAMAT DATANG DI WARUNG EDU TECH
+===================================
 Menu Hari Ini:
 [A] Air Mineral   - Rp 3.000
 [B] Roti          - Rp 5.000
